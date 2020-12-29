@@ -1,5 +1,5 @@
 # Tamagotchi
 
-Tamagotchi clone in javascript.
+Tamagotchi clone made in javascript.
 
 
